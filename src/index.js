@@ -1,2 +1,0 @@
-
-const promesa= new Promise();
